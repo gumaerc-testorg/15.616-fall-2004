@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 21c2728c-5471-ac55-2720-beaf64f32def
 resourcetype: Document
 title: Second Takehome Exercise
 uid: 8c1a799b-c644-a053-5078-aa0837045bdb

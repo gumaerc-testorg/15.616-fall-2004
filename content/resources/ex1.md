@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 21c2728c-5471-ac55-2720-beaf64f32def
 resourcetype: Document
 title: First Takehome Exercise
 uid: 59507d9e-7e92-15bc-58df-30db8b29aa3f

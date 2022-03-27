@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 3d8d4c99-0797-b23b-7d7f-c867d6b2e86a
 resourcetype: Document
 title: Tort Law in a Peanut
 uid: c37a7618-433d-a71f-a106-9839c3533cbf

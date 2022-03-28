@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: 8622ecef-b080-774e-44d9-6691a4f8dbed
 ---
@@ -42,7 +43,7 @@ All students are expected to participate in class discussion. In addition, for e
 
 ### Take-home Exercises
 
-There are two take-home exercises. Students have three hours for an exercise, and some choice as to the particular three-hour period. The exercises have been scheduled to be available during the periods shown on the [assignments]({{< baseurl >}}/pages/assignments) page. For each exercise, each student will make arrangements with the TA to receive the exam by e-mail at a mutually determined time during the availability period, and will e-mail back the completed exam within three hours of receiving it. The second exercise will cover only material not covered by the first.
+There are two take-home exercises. Students have three hours for an exercise, and some choice as to the particular three-hour period. The exercises have been scheduled to be available during the periods shown on the {{< resource_link 21c2728c-5471-ac55-2720-beaf64f32def "assignments" >}} page. For each exercise, each student will make arrangements with the TA to receive the exam by e-mail at a mutually determined time during the availability period, and will e-mail back the completed exam within three hours of receiving it. The second exercise will cover only material not covered by the first.
 
 During the period the exercises are available, students may not consult any other person about the content of the course.
 
@@ -52,7 +53,7 @@ It is not expected that students will need the full three hours to complete the 
 
 ### Research Paper Option
 
-All students in this course have the option of writing a research paper instead of doing the two take-home exercises. Students in MIT's Technology and Policy Program who wish to use this course to meet the law distribution requirement **must** take the research paper option. The requirements for the paper option are set out on the [projects]({{< baseurl >}}/pages/projects) page.
+All students in this course have the option of writing a research paper instead of doing the two take-home exercises. Students in MIT's Technology and Policy Program who wish to use this course to meet the law distribution requirement **must** take the research paper option. The requirements for the paper option are set out on the {{< resource_link 3c3af310-e32a-8fb7-fe1e-6a7a01c01b8b "projects" >}} page.
 
 ### Students who take more than one of my courses
 

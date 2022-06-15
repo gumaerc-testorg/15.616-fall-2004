@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides details on the two take-home exercises assigned
+  for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: 21c2728c-5471-ac55-2720-beaf64f32def
 ---
@@ -157,7 +158,7 @@ Guest: Kenneth Gordon, Testa Hurwitz & Thibeault
 Joint Ventures and M&A
 {{< tdclose >}}
 {{< tdopen >}}
-1st exercise available two days after lecture 9 at 9 a.m. and is to be completed the next day at 9 p.m. ({{< resource_link 59507d9e-7e92-15bc-58df-30db8b29aa3f "PDF" >}})
+1st exercise available two days after lecture 9 at 9 a.m. and is to be completed the next day at 9 p.m. ({{% resource_link 59507d9e-7e92-15bc-58df-30db8b29aa3f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -326,7 +327,7 @@ Guests: Tom DesRosiers,
 Genzyme
 {{< tdclose >}}
 {{< tdopen >}}
-2nd exercise is available the day after lecture 21 at noon ({{< resource_link 8c1a799b-c644-a053-5078-aa0837045bdb "PDF" >}})
+2nd exercise is available the day after lecture 21 at noon ({{% resource_link 8c1a799b-c644-a053-5078-aa0837045bdb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

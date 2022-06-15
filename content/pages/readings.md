@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of reading assignments for the course
+  and information on the course textbook.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 3d8d4c99-0797-b23b-7d7f-c867d6b2e86a
 ---
@@ -40,7 +41,7 @@ readings
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-Akula, John. "Tort Law in a Peanut" ({{< resource_link c37a7618-433d-a71f-a106-9839c3533cbf "PDF" >}})  
+Akula, John. "Tort Law in a Peanut" ({{% resource_link c37a7618-433d-a71f-a106-9839c3533cbf "PDF" %}})  
   
 In re _Union Carbide Corp. Gas Plant Disaster_, 634 F. Supp. 842, 844 (1986). (Early legal maneuvering relating to massive industrial accident in Bhopal, India)
 {{< tdclose >}}
@@ -267,7 +268,7 @@ Antitrust, JVs and IP
 {{< tdopen >}}
 Akula, John. "Antitrust Law in a Peanut." 1993.  
   
-"Antitrust Guidelines for the Licensing of Intellectual Property." Issued by the U.S. Department of Justice and the Federal Trade Commission. 6 April 1995. ({{< resource_link 846ed074-61fb-09e6-555b-636743ed6276 "PDF" >}})  
+"Antitrust Guidelines for the Licensing of Intellectual Property." Issued by the U.S. Department of Justice and the Federal Trade Commission. 6 April 1995. ({{% resource_link 846ed074-61fb-09e6-555b-636743ed6276 "PDF" %}})  
   
 Newspaper clippings about airlines setting suit by government on fares, Varta Bosch, and U.S. vs. Microsoft®.
 {{< tdclose >}}

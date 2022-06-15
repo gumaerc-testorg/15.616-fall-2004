@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides details on an optional research paper assignment
+  for the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
-parent_uid: null
 title: Projects
 uid: 3c3af310-e32a-8fb7-fe1e-6a7a01c01b8b
 ---

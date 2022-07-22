@@ -5,6 +5,7 @@ file: /courses/15-616-innovative-businesses-and-breakthrough-technologies-the-le
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Tort Law in a Peanut
 uid: c37a7618-433d-a71f-a106-9839c3533cbf
 ---
 A brief, non-technical introduction to tort law.
-

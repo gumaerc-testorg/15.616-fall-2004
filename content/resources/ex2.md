@@ -5,6 +5,7 @@ file: /courses/15-616-innovative-businesses-and-breakthrough-technologies-the-le
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Second Takehome Exercise
 uid: 8c1a799b-c644-a053-5078-aa0837045bdb
 ---
 Homework assignment on legal issues in business.
-
